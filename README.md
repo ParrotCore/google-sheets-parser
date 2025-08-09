@@ -11,7 +11,7 @@ gsp(SHEET_ID, G_ID).then(table => console.log(table));
 ```
 
 ## Response:
-```
+```js
 {
   A: {
     '1': <VALUE OF A1 CELL>,
